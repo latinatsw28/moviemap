@@ -1,9 +1,4 @@
-# MovieInfo App
+ Movie Map
 
-JavaScript/jQuery app that fetches movie data from the OMDb API
+JavaScript/jQuery app that gets movie information from the IMDb API
 
-## Usage
-
-```bash
-Run index.html on any server
-```
